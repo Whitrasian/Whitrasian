@@ -1,0 +1,7 @@
+# Learning projects
+# drawing ideas generator for your creative block
+
+print("Hello! This is the drawing ideas generator code!")
+adjective = input("Type one adjective\n")
+animal = input("Type one animal\n")
+print ("Your next drawing should be: " + adjective + " " + animal + "!")
